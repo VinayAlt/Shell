@@ -1,7 +1,4 @@
 # Shell
 Schell Scripts
-added this line from fork repository
+Added this line from the fork repository
 
-added third line, and test 
-one more line added
-another line
