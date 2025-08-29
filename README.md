@@ -2,4 +2,4 @@
 Schell Scripts
 added this line from fork repository
 
-added third line
+added third line, and test 
